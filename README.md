@@ -230,7 +230,8 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 
 I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate the working prototype & give it appropriate name. I use the same prototyping idea with [KM macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
-![](https://i.imgur.com/bbohfKP.png)
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/bbohfKP.png"></a>
 
 ## Control Center
 
@@ -244,7 +245,7 @@ Here is how my control center looks:
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Cbv6c9r.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/qzFn7Ot.jpg"></a>
 
 I use only one Infograph Modular watch face. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start cardio workout (running/biking) or bodyweight workout (with [Streaks Workout](https://streaksworkout.com)). I can also start a timer or see the time of a timer if one is already running.
 
