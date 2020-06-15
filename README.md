@@ -87,7 +87,7 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 - One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are my top bookmarked sites I use:
 
-<img src="https://i.imgur.com/XuFINid.jpg" width="300" alt="img">
+<img src="https://i.imgur.com/uDjnhwX.jpg" width="300" alt="img">
 
 ### Social
 
@@ -230,7 +230,7 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 
 I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate the working prototype & give it appropriate name. I use the same prototyping idea with [KM macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
-![](https://i.imgur.com/r0XXifl.png)
+![](https://i.imgur.com/bbohfKP.png)
 
 ## Control Center
 
