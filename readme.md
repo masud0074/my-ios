@@ -2,13 +2,13 @@
 
 > List of applications and tools that make my iOS experience even more amazing
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/q6lSHQI.png"></a>
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/faN6HSB.jpg"></a>
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/9N2zJgM.png"></a>
 
 #### Contents
@@ -187,7 +187,7 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 As I develop apps for iOS, I have 3rd page dedicated to `in development` apps. The empty icons are added with [Makeovr](http://www.makeovr.io/up.php).
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" helgth="400" src="https://i.imgur.com/uSm3F08.png"></a>
 
 ### Other apps
@@ -200,7 +200,7 @@ I go over describing all the top apps I use (not in folder) above. Here are cont
 
 Here are the widgets I use:
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" helgth="400" src="https://i.imgur.com/QWpKVZk.jpg"></a>
 
 ## Shortcuts
@@ -230,21 +230,21 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 
 I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate the working prototype & give it appropriate name. I use the same prototyping idea with [KM macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/bbohfKP.png"></a>
 
 ## Control Center
 
 Here is how my control center looks:
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/MF29Z2p.jpg"></a>
 
 ## WatchOS
 
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/qzFn7Ot.jpg"></a>
 
 I use only one Infograph Modular watch face. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start cardio workout (running/biking) or bodyweight workout (with [Streaks Workout](https://streaksworkout.com)). I can also start a timer or see the time of a timer if one is already running.
@@ -264,15 +264,15 @@ I prefer using PS4 for playing games as the games there are much better. There a
 - [INSIDE](https://apps.apple.com/us/app/playdeads-inside/id1201642309)
 - [FTL: Faster Than Light](https://apps.apple.com/us/app/ftl-faster-than-light/id833951143)
 
-## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
+## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
 
 ![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
 
-If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os#readme) going over what applications I use on macOS.
+If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
 
 ## Related
 
-- [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [Sharecuts](https://sharecuts.app/) - Public repository of shortcuts for the Shortcuts app.
 - [Shortcuts Gallery](https://shortcutsgallery.com/)
 
@@ -286,4 +286,4 @@ I love finding new awesome tools and apps. If you have a favorite tool or app th
 
 You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-[![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](LICENSE) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](license) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
