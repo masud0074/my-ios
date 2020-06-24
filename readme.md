@@ -11,8 +11,6 @@
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/9N2zJgM.png"></a>
 
-#### Contents
-
 - [Focus](#focus)
 - [Applications](#applications)
   - [Productivity](#productivity)
