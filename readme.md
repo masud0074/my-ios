@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/q6lSHQI.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/SznJcRX.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/faN6HSB.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/SY2wgkD.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/9N2zJgM.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/E1swqTM.png"></a>
 
 - [Focus](#focus)
 - [Applications](#applications)
@@ -251,7 +251,9 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) and Apple Pencil & using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
-![](https://i.imgur.com/nIApZQU.png)
+![](https://i.imgur.com/hvUUv76.png)
+
+![](https://i.imgur.com/E9DpqdL.png)
 
 ## Games
 
