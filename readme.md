@@ -115,35 +115,19 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 - The place for all my personal photos/videos synced with iCloud. I love its Memories features.
 
+#### [Darkroom](https://darkroom.co) - Photo & video editor
+
+- Use it to quickly edit photographs I made as prefer its filters and editing options than other photo editors.
+
 #### [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager/id984305203?mt=8) - Photo & Album Organizer
 
 - Use the app to quickly delete bad photos and sort photos into albums quickly. I try have all the photos in my Photos library be placed in some folder and this app lets me easily do that.
-
-#### [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Image editor and photo sharing
-
-- Use it to quickly edit photographs I made as I much prefer its filters and editing options than other photo editors. I then post the edited photos I like to Instagram. I prefer to not edit the photos shot on the phone and only edit photos shot with a proper camera.
 
 #### [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
 
 - Love it as a way to [share my life](https://www.instagram.com/nikitavoloboev/) through photographs, videos and stories.
 
 ### Learn
-
-#### [Books](https://www.apple.com/ibooks/)
-
-- Use it to read books (PDF & EPUB). And listen to audio books I downloaded that Audible doesn't have.
-
-#### [V for Wiki](http://v-for-wiki.com) - Wiki reader
-
-- Amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
-
-#### [Medium](https://itunes.apple.com/us/app/medium/id828256236?mt=8) - Online publishing platform
-
-- Use the app to read articles in night mode.
-
-#### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
-
-- All of my [ideas](https://trello.com/b/alB1ryRP) and projects live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
 
 #### [Overcast](https://overcast.fm) - Podcasts
 
@@ -156,6 +140,22 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 #### [Reeder](http://reederapp.com/ios/) - RSS Reeder
 
 - Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs).
+
+#### [Books](https://www.apple.com/ibooks/)
+
+- Use it to read books (PDF & EPUB). And listen to audio books I downloaded that Audible doesn't have.
+
+#### [V for Wiki](http://v-for-wiki.com) - Wiki reader
+
+- Amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
+
+#### [Medium](https://itunes.apple.com/us/app/medium/id828256236?mt=8) - Online publishing platform
+
+- Use the app to read articles.
+
+#### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
+
+- All of my [ideas](https://trello.com/b/alB1ryRP) and projects live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
 
 ### Write
 
