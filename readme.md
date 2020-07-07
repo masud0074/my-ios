@@ -35,9 +35,9 @@
 
 ## Focus
 
-I have two active spaces on my phone to minimize hand movement & I use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise) to keep non essential apps away. Everything is optimized for reachability and ideally aesthetics (color matching). I use dark mode always on iOS unlike macOS where I switch it dynamically from day to evening.
+I have two active spaces on my phone to minimize hand movement & I use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise) to keep non essential apps away. Everything is optimized for reachability and ideally aesthetics (color matching). I use dark mode always on iOS. On macOS I tend to vary between light and dark themes depending on whether I am in a sunny area.
 
-iPhone for me is a consumption and communication device with limited creation. Everything I can do on the phone, I can do faster and better on [macOS](https://github.com/nikitavoloboev/my-mac-os). Thus I limit & focus the kinds of activity I can do on the phone. Podcasts, chat, making photos..
+iPhone for me is a consumption and communication device with limited creation. Everything I can do on the phone, I can do faster and better on [macOS](https://github.com/nikitavoloboev/my-mac-os). Thus I limit & focus the kinds of activity I can do on the phone. Podcasts, talking, Twitter/Reddit/HN, making photos..
 
 ## Applications
 
