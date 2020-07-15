@@ -266,7 +266,9 @@ I prefer using PS4 for playing games as the games there are much better. There a
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/night.png)
+<a href="https://github.com/nikitavoloboev/my-mac-os">
+  <img src="https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/night.png">
+</a>
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
 
