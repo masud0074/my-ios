@@ -3,18 +3,18 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/SznJcRX.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/zG9xWyV.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/SY2wgkD.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/DdQY5hy.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/E1swqTM.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/jcSJBWi.jpg"></a>
 
 - [Focus](#focus)
 - [Applications](#applications)
   - [Productivity](#productivity)
-  - [Social](#social)
+  - [Social](#socialk)
   - [Photos](#photos)
   - [Learn](#learn)
   - [Write](#write)
@@ -183,23 +183,19 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 ### Dev page
 
-As I develop apps for iOS, I have 3rd page dedicated to `in development` apps. The empty icons are added with [Makeovr](http://www.makeovr.io/up.php).
+I like to develop apps for iOS so I have 3rd page dedicated to `in development` and trying out of apps.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" helgth="400" src="https://i.imgur.com/uSm3F08.png"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/LqiTl4n.jpg"></a>
 
-### Other apps
-
-I go over describing all the top apps I use (not in folder) above. Here are contents of all of the folders with names of apps inside.
-
-![](https://i.imgur.com/gFx5EeW.jpg)
+I keep all other non top used apps in the one folder in this third page. I use Spotlight to search and open all apps that aren't found in these 3 pages. I use the automatic folders made by the drawer too sometimes.
 
 ## Widgets
 
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" helgth="400" src="https://i.imgur.com/QWpKVZk.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/wJIfZf2.jpg"></a>
 
 ## Shortcuts
 
