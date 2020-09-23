@@ -247,9 +247,9 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) and Apple Pencil & using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
-![](https://i.imgur.com/hvUUv76.png)
+![](https://i.imgur.com/M76cgTF.jpg)
 
-![](https://i.imgur.com/E9DpqdL.png)
+![](https://i.imgur.com/33XKI6w.jpg)
 
 ## Games
 
