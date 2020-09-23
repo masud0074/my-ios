@@ -245,7 +245,7 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 ## iPad
 
-I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) and Apple Pencil & using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
+I mostly use my iPad for drawing with [Procreate](https://procreate.art) and Apple Pencil. Or browsing Twitter and playing [Hearthstone battlegrounds](https://playhearthstone.com/en-us/battlegrounds/). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
 ![](https://i.imgur.com/M76cgTF.jpg)
 
@@ -253,7 +253,7 @@ I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.
 
 ## Games
 
-I prefer using PS4 for playing games as the games there are much better. There are some games I did like still on iOS.
+I prefer using PS5 for playing games as the games there are much better.
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
 - [Hearthstone](https://apps.apple.com/us/app/hearthstone/id625257520)
