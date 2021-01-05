@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/zG9xWyV.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/4fHt6hb.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/DdQY5hy.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ftxu1PD.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/jcSJBWi.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/T44TlSz.jpg"></a>
 
 - [Focus](#focus)
 - [Applications](#applications)
@@ -21,8 +21,6 @@
   - [Music](#music)
   - [Travel](#travel)
   - [Automation](#automation)
-  - [Dev page](#dev-page)
-  - [Other apps](#other-apps)
 - [Widgets](#widgets)
 - [Shortcuts](#shortcuts)
 - [Control Center](#control-center)
@@ -35,13 +33,13 @@
 
 ## Focus
 
-I have two active spaces on my phone to minimize hand movement & I use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise) to keep non essential apps away. Everything is optimized for reachability and ideally aesthetics (color matching). I use dark mode always on iOS. On macOS I tend to vary between light and dark themes depending on whether I am in a sunny area.
+I have two active spaces on my phone to minimize hand movement. Everything is optimized for reachability and partly aesthetics. I use dark mode always on iOS. On macOS I tend to vary between light and dark themes.
 
-iPhone for me is a consumption and communication device with limited creation. Everything I can do on the phone, I can do faster and better on [macOS](https://github.com/nikitavoloboev/my-mac-os). Thus I limit & focus the kinds of activity I can do on the phone. Podcasts, talking, Twitter/Reddit/HN, making photos..
+iPhone for me is a consumption and communication device primarily. Everything I can do on the phone, I can do faster and better on [mac](https://github.com/nikitavoloboev/my-mac-os). Thus I limit the kinds of activities I do on the phone. Podcasts, chat, Twitter/Apollo/IG, photography..
 
 ## Applications
 
-Here is a list of apps I use the most in my day to day life, sorted by category and their importance.
+Here is a list of apps I use the most, sorted by category and their importance.
 
 ### Productivity
 
@@ -92,10 +90,6 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 #### [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8) - Messenger
 
 - My favorite messenger due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use. I use Pocket to add links I want to check at some point in time. I also use Telegram Saved Messages and send messages to myself (links/quick-todos) that are of higher priority than Pocket. Adding quick todo to Telegram is much quicker than 2Do and it is assumed that the todo/note will be dealt with as soon as possible. I also use Saved Messages to share media between devices.
-
-#### [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8) - Twitter client
-
-- My favorite Twitter client. Prefer it over official client for its ability to sync timelines with the macOS app, night theme and no ads. I do use the official Twitter app for searching as it has profile suggestions on searches that Tweetbot doesn't have.
 
 #### [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
 
@@ -149,19 +143,11 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 - Amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
 
-#### [Medium](https://itunes.apple.com/us/app/medium/id828256236?mt=8) - Online publishing platform
-
-- Use the app to read articles.
-
-#### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
-
-- All of my [ideas](https://trello.com/b/alB1ryRP) and projects live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
-
 ### Write
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
 
-- I use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it. I use [Monokai Night theme](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb619b3dafa6b4e6d6bd4).
+- I use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
 ### Music
 
@@ -180,15 +166,6 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 #### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
 - Lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005) and instantly run the shortcuts on the phone. Plan to learn how to use it well to write more sophisticated shortcuts.
-
-### Dev page
-
-I like to develop apps for iOS so I have 3rd page dedicated to `in development` and trying out of apps.
-
-<a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" helgth="400" src="https://i.imgur.com/LqiTl4n.jpg"></a>
-
-I keep all other non top used apps in the one folder in this third page. I use Spotlight to search and open all apps that aren't found in these 3 pages. I use the automatic folders made by the drawer too sometimes.
 
 ## Widgets
 
@@ -253,12 +230,10 @@ I mostly use my iPad for drawing with [Procreate](https://procreate.art) and App
 
 ## Games
 
-I prefer using PS5 for playing games as the games there are much better.
+I prefer using PS5 for playing games as the games there are much better. Some games I do play on iPad are:
 
-- [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
+- [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784)
 - [Hearthstone](https://apps.apple.com/us/app/hearthstone/id625257520)
-- [INSIDE](https://apps.apple.com/us/app/playdeads-inside/id1201642309)
-- [FTL: Faster Than Light](https://apps.apple.com/us/app/ftl-faster-than-light/id833951143)
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
 
