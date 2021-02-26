@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/4fHt6hb.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Kkv5ral.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/ftxu1PD.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/IzVAy2F.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/T44TlSz.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/LiILeEK.jpg"></a>
 
 - [Focus](#focus)
 - [Applications](#applications)
@@ -33,9 +33,9 @@
 
 ## Focus
 
-I have two active spaces on my phone to minimize hand movement. Everything is optimized for reachability and partly aesthetics. I use dark mode always on iOS. On macOS I tend to vary between light and dark themes.
+I have two active spaces on my phone to minimize hand movement. Everything is optimized for reachability and partly aesthetics. I use dark mode most always on iOS. On macOS I tend to vary between light and dark themes preferring light theme.
 
-iPhone for me is a consumption and communication device primarily. Everything I can do on the phone, I can do faster and better on [mac](https://github.com/nikitavoloboev/my-mac-os). Thus I limit the kinds of activities I do on the phone. Podcasts, chat, Twitter/Apollo/IG, photography..
+iPhone for me is a consumption and communication device primarily. Everything I can do on the phone, I can do faster and better on [mac](https://github.com/nikitavoloboev/my-mac-os). Thus I limit the kinds of activities I do on the phone and don't do things for long. Podcasts, chat, Twitter/Apollo/IG, photography..
 
 ## Applications
 
@@ -172,7 +172,7 @@ Here is a list of apps I use the most, sorted by category and their importance.
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" helgth="400" src="https://i.imgur.com/wJIfZf2.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/chETCSl.jpg"></a>
 
 ## Shortcuts
 
@@ -209,7 +209,7 @@ I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate t
 Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/V2tNRWI.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/JFxssYt.jpg"></a>
 
 ## WatchOS
 
@@ -222,11 +222,9 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art) and Apple Pencil. Or browsing Twitter and playing [Hearthstone battlegrounds](https://playhearthstone.com/en-us/battlegrounds/). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
+I mostly use my iPad for drawing with [Procreate](https://procreate.art) and Apple Pencil. Or playing [Chess](https://lichess.org). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
-![](https://i.imgur.com/M76cgTF.jpg)
-
-![](https://i.imgur.com/33XKI6w.jpg)
+![](https://i.imgur.com/CJpgzD4.png)
 
 ## Games
 
