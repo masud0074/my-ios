@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/Kkv5ral.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/bKZFowT.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/IzVAy2F.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/EqBFoIW.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/LiILeEK.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/YbNPM0M.jpg"></a>
 
 - [Focus](#focus)
 - [Applications](#applications)
