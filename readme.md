@@ -222,7 +222,7 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noting/sketching in [Notes](https://www.icloud.com/notes)/[Muse](https://museapp.com/) and Apple Pencil. Or playing [Chess](https://lichess.org/) / [Wild Rift](https://wildrift.leagueoflegends.com/). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
+I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noting/sketching in [Notes](https://www.icloud.com/notes)/[Muse](https://museapp.com/) with Apple Pencil. Or playing [Chess](https://lichess.org/) / [Wild Rift](https://wildrift.leagueoflegends.com/). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="450" heigth="450" src="https://i.imgur.com/wLHrn9U.jpg"></a>
@@ -236,6 +236,7 @@ I prefer using PS5 for playing games as the games there are much better. Some ga
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784)
 - [Hearthstone](https://apps.apple.com/us/app/hearthstone/id625257520)
+- [Wild Rift](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990)
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
 
