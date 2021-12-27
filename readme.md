@@ -222,9 +222,13 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art) and Apple Pencil. Or playing [Chess](https://lichess.org). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
+I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noting/sketching in [Notes](https://www.icloud.com/notes)/[Muse](https://museapp.com/) and Apple Pencil. Or playing [Chess](https://lichess.org/) / [Wild Rift](https://wildrift.leagueoflegends.com/). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
-![](https://i.imgur.com/CJpgzD4.png)
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+    <img width="250" heigth="400" src="https://i.imgur.com/wLHrn9U.jpg"></a>
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+    <img width="250" heigth="400" src="https://i.imgur.com/X3vgx9V.jpg"></a>
 
 ## Games
 
