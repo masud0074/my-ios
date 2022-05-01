@@ -45,7 +45,7 @@ Here is a list of apps I use the most, sorted by category and their importance.
 
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
 
-- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikitavoloboev.xyz/macos/macos-apps/2do) and work on tasks based on priority.
+- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikiv.dev/macOS/apps/2do) and work on tasks based on priority.
 
 #### [Fantastical](https://itunes.apple.com/nl/app/fantastical-2-for-iphone/id718043190?mt=8) - Calendar
 
@@ -73,11 +73,11 @@ Here is a list of apps I use the most, sorted by category and their importance.
 
 #### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
 
-- Use the app to track my ongoing subscriptions. I review it at the end of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
+- Use the app to track my ongoing subscriptions. I review it at the end of every month and [update my budget](https://wiki.nikiv.dev/economy/finance) for the month accordingly.
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
-- I use the app to collect my favorite [plant based recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
+- I use the app to collect my favorite [plant based recipes](https://wiki.nikiv.dev/health/nutrition/recipes).
 
 #### [Safari](https://www.apple.com/uk/safari/) - Browser
 
@@ -125,7 +125,7 @@ Here is a list of apps I use the most, sorted by category and their importance.
 
 #### [Overcast](https://overcast.fm) - Podcasts
 
-- Lets me listen to the plethora of [podcasts I love](https://wiki.nikitavoloboev.xyz/podcasts). I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
+- Lets me listen to the plethora of [podcasts I love](https://wiki.nikiv.dev/podcasts). I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
 
 #### [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks
 
@@ -133,7 +133,7 @@ Here is a list of apps I use the most, sorted by category and their importance.
 
 #### [Reeder](http://reederapp.com/ios/) - RSS Reeder
 
-- Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs).
+- Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikiv.dev/research/blogs).
 
 #### [Books](https://www.apple.com/ibooks/)
 
@@ -147,19 +147,19 @@ Here is a list of apps I use the most, sorted by category and their importance.
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
 
-- I use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
+- I use the app to make edits to my [wiki](https://wiki.nikiv.dev). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
 ### Music
 
 #### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
 
-- Love using it due to superior music recommendation, UI/UX and social features like [playlist sharing](https://wiki.nikitavoloboev.xyz/music/music-playlists) .
+- Love using it due to superior music recommendation, UI/UX and social features like [playlist sharing](https://wiki.nikiv.dev/music/music-playlists) .
 
 ### Travel
 
 #### [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) - GPS, City Navigation & Traffic
 
-- Use it as my main navigation app and a travel guide. Collect [lists of places I want to visit and places I loved seeing](https://wiki.nikitavoloboev.xyz/travel/visited).
+- Use it as my main navigation app and a travel guide. Collect [lists of places I want to visit and places I loved seeing](https://wiki.nikiv.dev/travel/visited).
 
 ### Automation
 
@@ -187,7 +187,7 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/af9b8f223ec440daa04da332581f8415) - Start typing new tweet.
 - [Focus](https://www.icloud.com/shortcuts/bbfec2eaa7a2469787068e02550a9eff) - Play rain sound using [Dark Noise](https://darknoise.app).
-- [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
+- [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikiv.dev/podcasts/).
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
 - [Photo](https://www.icloud.com/shortcuts/a209e209f1864eed89377e1f70a47587) - Open Camera app to take photo/video.
 - [Drive](https://www.icloud.com/shortcuts/5b68f7221cde454b81ca99c3c743f636) - Search Google Drive.
@@ -199,7 +199,7 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 - [Record](https://www.icloud.com/shortcuts/e2d5cdb3a99f49ffa3ff047aa5bb83ed) - Start recording audio. Tap to stop. Then share it.
 - [Dictate](https://www.icloud.com/shortcuts/0df99b056c2345f0881acdce6a2b1f0b) - Start recording speech and transcribe it to text. Tap to stop. Then share the text.
 
-I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate the working prototype & give it appropriate name. I use the same prototyping idea with [KM macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
+I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate the working prototype & give it appropriate name. I use the same prototyping idea with [KM macros](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/bbohfKP.png"></a>
