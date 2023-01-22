@@ -11,7 +11,6 @@
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-3.PNG"></a>
 
-- [Focus](#focus)
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Social](#socialk)
@@ -31,73 +30,30 @@
 - [Related](#related)
 - [Contributing](#contributing)
 
-## Focus
-
-I have two active spaces on my phone to minimize hand movement. Everything is optimized for reachability and partly aesthetics. I use dark mode most always on iOS. On macOS I tend to vary between light and dark themes preferring light theme.
-
-iPhone for me is a consumption and communication device primarily. Everything I can do on the phone, I can do faster and better on [mac](https://github.com/nikitavoloboev/my-mac-os). Thus I limit the kinds of activities I do on the phone and don't do things for long. Podcasts, chat, Twitter/Apollo/IG, photography..
-
 ## Applications
 
-Here is a list of apps I use the most, sorted by category and their importance.
+This is extension of [my macOS overview](https://github.com/nikitavoloboev/my-mac-os). Best read it first as many apps below I use on mac too and describe in more detail there.
+
+I only use 2 active spaces on my phone without any folders to minimize hand movement. Everything is optimized for reachability and partly aesthetics. I nearly always use dark mode as I prefer it unless I am outside and it's hard to read the text.
+
+iOS for me is a consumption and communication device primarily so I try to offload heavy busy work to macOS.
+
+I minimize push notifications I actually receive to only messaging apps. Mostly just [Telegram](https://wiki.nikiv.dev/tools/telegram). Everything else I have to go inside the apps to check what's new so as to not distract me from day to day life. I also keep it on Do Not Disturb nearly always too. Especially when I work on my mac and keep the phone on the side so as to not duplicate notifications.
 
 ### Productivity
 
-#### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
-
-- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikiv.dev/macOS/apps/2do) and work on tasks based on priority.
-
-#### [Fantastical](https://itunes.apple.com/nl/app/fantastical-2-for-iphone/id718043190?mt=8) - Calendar
-
-- Prefer it to stock calendar app due to a cleaner design and ability to add events quickly with natural language.
-
-#### [Strong](https://www.strong.app/) - Workout tracker
-
-- Use it to track my workouts. I have few custom workouts I made that I can start and simply follow the exercises and the number of sets for the exercise as my workout progresses. I most usually start and track my workouts with my [Apple Watch](#watchos) using [Streaks Workout](https://streaksworkout.com) to start bodyweight exercise workouts and Workouts to start cardio workouts (Running/Cycling).
-
-#### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
-
-- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. It seamlessly integrates with the OS so I can autofill saved passwords in seconds.
-
-#### [Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) - Cloud Storage
-
-- All my documents (files) are stored in iCloud. However Google Docs/Sheets are amazing tools for collaborating on documents.
-
-#### [GitHub](https://github.com/mobile) - GitHub on the Go
-
-- Use it respond or create issues on GitHub & keep up to date on activity of my watched repos.
-
-#### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
-
-- Use the app to block annoying ads and tracking in Safari.
-
-#### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
-
-- Use the app to track my ongoing subscriptions. I review it at the end of every month and [update my budget](https://wiki.nikiv.dev/economy/finance) for the month accordingly.
-
-#### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
-
-- I use the app to collect my favorite [plant based recipes](https://wiki.nikiv.dev/health/nutrition/recipes).
-
-#### [Safari](https://www.apple.com/uk/safari/) - Browser
-
-- One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are my top bookmarked sites I use:
-
-<img src="https://i.imgur.com/uDjnhwX.jpg" width="300" alt="img">
+- [Fantastical](https://wiki.nikiv.dev/macOS/apps/fantastical) use to manage my calendar and events. I like their widget to show my current schedule of the day.
+- [2Do](https://wiki.nikiv.dev/macOS/apps/2do) for personal tasks. Want to move away from it as the current sync takes too long sadly. But the mac 2Do app is unmatched currently.
+- [1Password](https://wiki.nikiv.dev/macOS/apps/1password) use it whenver I need to find some specific secret file like Passport photo or details.
+- [GitHub](https://github.com/mobile) don't use often but is nice when I need to reply to an urgent issue.
+- [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker. Works well.
+- [Safari](https://wiki.nikiv.dev/web/browsers/safari) absolutely love it for reading and opening pages. Works fast. I like keeping [top used sites in bookmarks bar](https://i.imgur.com/uDjnhwX.jpg) so I can open them fast.
 
 ### Social
 
-#### [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8) - Messenger
-
-- My favorite messenger due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use. I use Pocket to add links I want to check at some point in time. I also use Telegram Saved Messages and send messages to myself (links/quick-todos) that are of higher priority than Pocket. Adding quick todo to Telegram is much quicker than 2Do and it is assumed that the todo/note will be dealt with as soon as possible. I also use Saved Messages to share media between devices.
-
-#### [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
-
-- My favorite client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customized the app to work with my own gestures (i.e. swiping back & forth by initiating the swipe in the middle of the screen and not on the side).
-
-#### [Spark](https://sparkmailapp.com) - Mail client
-
-- My favorite email client that I love due its simplicity of UI and UX as well as separation of emails based on their type (Inbox, newsletters).
+- [Telegram](https://wiki.nikiv.dev/tools/telegram) use it chat and read groups. Want to start using it more heavily by creating specialized bots.
+- [Apollo](https://apolloapp.io/) love the client and its custom gestures (like swiping back & forth by initiating the swipe in the middle of the screen and not on the side).
+- [Spark](https://sparkmailapp.com) use it to check on mail. I don't have notifications set for email.
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
 
