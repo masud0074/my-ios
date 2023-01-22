@@ -54,74 +54,34 @@ I minimize push notifications I actually receive to only messaging apps. Mostly 
 - [Telegram](https://wiki.nikiv.dev/tools/telegram) use it chat and read groups. Want to start using it more heavily by creating specialized bots.
 - [Apollo](https://apolloapp.io/) love the client and its custom gestures (like swiping back & forth by initiating the swipe in the middle of the screen and not on the side).
 - [Spark](https://sparkmailapp.com) use it to check on mail. I don't have notifications set for email.
-
-#### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
-
-- Only keep essential teams I am signed up on there.
+- [Slack](https://wiki.nikiv.dev/tools/slack) & [Discord](https://wiki.nikiv.dev/tools/discord) to check up on communities I am in.
 
 ### Photos
 
-#### [Photos](http://www.apple.com/lae/ios/photos/) - Photo library
-
-- The place for all my personal photos/videos synced with iCloud. I love its Memories features.
-
-#### [Darkroom](https://darkroom.co) - Photo & video editor
-
-- Use it to quickly edit photographs I made as prefer its filters and editing options than other photo editors.
-
-#### [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager/id984305203?mt=8) - Photo & Album Organizer
-
-- Use the app to quickly delete bad photos and sort photos into albums quickly. I try have all the photos in my Photos library be placed in some folder and this app lets me easily do that.
-
-#### [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
-
-- Love it as a way to [share my life](https://www.instagram.com/nikitavoloboev/) through photographs, videos and stories.
+- [Photos](http://www.apple.com/lae/ios/photos/) does good job of managing and searching for photos I need. I have few albums I made for myself to make finding things easier too. Love its Memories feature and use the Photos Widget to remind myself of the past photos I took or saved.
+- [VSCO](https://www.vsco.co/) & [Darkroom](https://darkroom.co) for photo editing. Don't pay for VSCO as it's quite expensive but they both do a good job at editing photos.
+- [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager/id984305203?mt=8) use it to quickly clean up photos, especially duplicates or bad takes.
+- [Instagram](https://wiki.nikiv.dev/social-networks/instagram) not a fan of how many ads IG pushes to the feeds/stories but I do love content of many accounts there so I still use it. Share some [photos and stories of my life](https://www.instagram.com/nikitavoloboev/) in there.
 
 ### Learn
 
-#### [Overcast](https://overcast.fm) - Podcasts
-
-- Lets me listen to the plethora of [podcasts I love](https://wiki.nikiv.dev/podcasts). I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
-
-#### [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks
-
-- If I am not listening to a podcast or relaxing by playing music, I listen to books.
-
-#### [Reeder](http://reederapp.com/ios/) - RSS Reeder
-
-- Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikiv.dev/research/blogs).
-
-#### [Books](https://www.apple.com/ibooks/)
-
-- Use it to read books (PDF & EPUB). And listen to audio books I downloaded that Audible doesn't have.
-
-#### [V for Wiki](http://v-for-wiki.com) - Wiki reader
-
-- Amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
-
-### Write
-
-#### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
-
-- I use the app to make edits to my [wiki](https://wiki.nikiv.dev). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
+- [Overcast](https://overcast.fm) use it to listen to [podcasts I like](https://wiki.nikiv.dev/podcasts). I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
+- [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) listen to audio books there.
+- [NetNewsWire](https://netnewswire.com/) I do nearly all the reading of [RSS](https://wiki.nikiv.dev/web/rss) on the mac.
+- [Books](https://www.apple.com/ibooks/) use it to read some books. It recently added a nice [digital narration](https://authors.apple.com/support/4519-digital-narration-audiobooks).
+- [V for Wiki](http://v-for-wiki.com) love exploring wikipedia when I am bored. This is nice app for doing this. Typography in it is great.
 
 ### Music
 
-#### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
-
-- Love using it due to superior music recommendation, UI/UX and social features like [playlist sharing](https://wiki.nikiv.dev/music/music-playlists) .
+- [Spotify](https://www.spotify.com) use it to stream all [my music](https://wiki.nikiv.dev/music).
 
 ### Travel
 
-#### [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) - GPS, City Navigation & Traffic
-
-- Use it as my main navigation app and a travel guide. Collect [lists of places I want to visit and places I loved seeing](https://wiki.nikiv.dev/travel/visited).
+- [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) use it as my main navigation app and a travel guide. Collect [lists of places I want to visit and places I loved seeing](https://wiki.nikiv.dev/travel/visited).
 
 ### Automation
 
-#### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
-
-- Lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005) and instantly run the shortcuts on the phone. Plan to learn how to use it well to write more sophisticated shortcuts.
+- [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) don't use it much but want to.
 
 ## Widgets
 
@@ -169,12 +129,12 @@ Here is how my control center looks:
 
 ## WatchOS
 
-I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
+I actually stopped wearing a watch. But when I did I mostly used it to track my health and fitness and view useful information at a glance like current time and events.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/qzFn7Ot.jpg"></a>
 
-I use only one Infograph Modular watch face. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start cardio workout (running/biking) or bodyweight workout (with [Streaks Workout](https://streaksworkout.com)). I can also start a timer or see the time of a timer if one is already running.
+I used only one Infograph Modular watch face. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start cardio workout (running/biking) or bodyweight workout (with [Streaks Workout](https://streaksworkout.com)). I can also start a timer or see the time of a timer if one is already running.
 
 ## iPad
 
@@ -188,10 +148,9 @@ I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noti
 
 ## Games
 
-I prefer using PS5 for playing games as the games there are much better. Some games I do play on iPad are:
+I prefer using PS5 for playing [games](https://wiki.nikiv.dev/games) as the games there are much better. Some games I sometimes play on iPad are:
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784)
-- [Hearthstone](https://apps.apple.com/us/app/hearthstone/id625257520)
 - [Wild Rift](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990)
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
