@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen.PNG"></a>
+    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-2.PNG"></a>
+    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-2.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-3.PNG"></a>
+    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-3.png"></a>
 
 - [Applications](#applications)
   - [Productivity](#productivity)
@@ -88,7 +88,7 @@ I minimize push notifications I actually receive to only messaging apps. Mostly 
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" helgth="400" src="https://images.nikiv.dev/my-ios-shortcuts.PNG"></a>
+    <img width="250" helgth="400" src="https://images.nikiv.dev/my-ios-shortcuts.png"></a>
 
 ## Shortcuts
 
@@ -175,6 +175,6 @@ I love finding new awesome tools and apps. If you have a favorite tool or app th
 
 ## Thank you
 
-You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
+You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
