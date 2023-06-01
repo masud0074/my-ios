@@ -141,10 +141,10 @@ I used only one Infograph Modular watch face. It shows the current time and day,
 I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noting/sketching in [Notes](https://www.icloud.com/notes)/[Muse](https://museapp.com/) with Apple Pencil. I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="450" heigth="450" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/master/ipad.png"></a>
+    <img width="450" heigth="450" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/main/ipad.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="450" heigth="450" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/master/ipad2.png"></a>
+    <img width="450" heigth="450" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/main/ipad2.png"></a>
 
 ## Games
 
@@ -156,7 +156,7 @@ I prefer using PS5 for playing [games](https://wiki.nikiv.dev/games) as the game
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac)
 
 <a href="https://github.com/nikitavoloboev/my-mac">
-  <img src="https://raw.githubusercontent.com/nikitavoloboev/my-mac/master/night.png">
+  <img src="https://raw.githubusercontent.com/nikitavoloboev/my-mac/main/night.png">
 </a>
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac) going over what applications I use on macOS.
