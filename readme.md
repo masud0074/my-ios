@@ -32,7 +32,7 @@
 
 ## Applications
 
-This is extension of [my macOS overview](https://github.com/nikitavoloboev/my-mac-os). Best read it first as many apps below I use on mac too and describe in more detail there.
+This is extension of [my macOS overview](https://github.com/nikitavoloboev/my-mac). Best read it first as many apps below I use on mac too and describe in more detail there.
 
 I only use 2 active spaces on my phone without any folders to minimize hand movement. Everything is optimized for reachability and partly aesthetics. I nearly always use dark mode as I prefer it unless I am outside and it's hard to read the text.
 
@@ -138,7 +138,7 @@ I used only one Infograph Modular watch face. It shows the current time and day,
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noting/sketching in [Notes](https://www.icloud.com/notes)/[Muse](https://museapp.com/) with Apple Pencil. Or playing [Chess](https://lichess.org/) / [Wild Rift](https://wildrift.leagueoflegends.com/). I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
+I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noting/sketching in [Notes](https://www.icloud.com/notes)/[Muse](https://museapp.com/) with Apple Pencil. I also sometimes use it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="450" heigth="450" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/master/ipad.png"></a>
@@ -148,18 +148,18 @@ I mostly use my iPad for drawing with [Procreate](https://procreate.art) or noti
 
 ## Games
 
-I prefer using PS5 for playing [games](https://wiki.nikiv.dev/games) as the games there are much better. Some games I sometimes play on iPad are:
+I prefer using PS5 for playing [games](https://wiki.nikiv.dev/games) as the games there are much better. Some games I rarely play on iPad are:
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784)
 - [Wild Rift](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990)
 
-## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
+## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac)
 
-<a href="https://github.com/nikitavoloboev/my-mac-os">
-  <img src="https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/night.png">
+<a href="https://github.com/nikitavoloboev/my-mac">
+  <img src="https://raw.githubusercontent.com/nikitavoloboev/my-mac/master/night.png">
 </a>
 
-If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
+If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac) going over what applications I use on macOS.
 
 ## Related
 
