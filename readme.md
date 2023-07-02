@@ -167,7 +167,7 @@ If you found this interesting, I also have a [similar repository](https://github
 - [Sharecuts](https://sharecuts.app/) - Public repository of shortcuts for the Shortcuts app.
 - [Shortcuts Gallery](https://shortcutsgallery.com/)
 
-## Contributing
+## Contribute
 
 [Suggestions](../../issues/) and pull requests are highly encouraged!
 
