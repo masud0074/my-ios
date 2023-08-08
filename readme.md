@@ -169,14 +169,14 @@ If you found this interesting, I also have a [similar repository](https://github
 
 ## Contribute
 
-[Suggestions](../../issues/) and pull requests are highly encouraged!
+[Suggestions](../../issues/) are welcome. ✨
 
-I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](../../issues/new).
+[Open new issue](../../issues/new/choose) or [start discussion](../../discussions).
 
-## Thank you
+Join [Discord](https://discord.com/invite/TVafwaD23d) for more indepth discussions on this repo and [others](https://github.com/nikitavoloboev#src).
 
-You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared.
+### ♥️
 
-I also have [personal Discord](https://discord.com/invite/TVafwaD23d) you can join for more indepth discussions.
+[Support on GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects).
 
-[![MIT](http://bit.ly/mitbadge)](https://choosealicense.com/licenses/mit/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![MIT](http://bit.ly/mitbadge)](https://choosealicense.com/licenses/mit/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
