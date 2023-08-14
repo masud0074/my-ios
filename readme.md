@@ -1,6 +1,6 @@
-# My wonderful world of iOS [![Thanks](http://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
+# My iOS [![Thanks](http://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
 
-> List of applications and tools that make my iOS experience even more amazing
+> Apps/tools I use on iOS
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/main/1.png"></a>
