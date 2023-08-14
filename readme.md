@@ -1,4 +1,4 @@
-# My iOS [![Thanks](http://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
+# My iOS
 
 > Apps/tools I use on iOS
 
