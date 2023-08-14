@@ -26,7 +26,7 @@
 - [Games](#games)
 - [WatchOS](#watchos)
 - [iPad](#ipad)
-- [My wonderful world of macOS](#my-wonderful-world-of-macos-)
+- [My macOS](#my-macos)
 - [Related](#related)
 - [Contributing](#contributing)
 
@@ -153,7 +153,7 @@ I prefer using PS5 for playing [games](https://wiki.nikiv.dev/games) as the game
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784)
 - [Wild Rift](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990)
 
-## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac)
+## [My macOS](https://github.com/nikitavoloboev/my-mac)
 
 <a href="https://github.com/nikitavoloboev/my-mac">
   <img src="https://raw.githubusercontent.com/nikitavoloboev/my-mac/main/night.png">
