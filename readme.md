@@ -85,14 +85,19 @@ I minimize push notifications I actually receive to only messaging apps. Mostly 
 
 ## Widgets
 
-Here are the widgets I use:
+I use 2 widgets in lock screen.
+
+- Create new task with [Things](https://culturedcode.com/things/)
+- Chat with [ChatGPT](https://apps.apple.com/us/app/chatgpt/id6448311069)
+
+I keep common shortcut actions as widgets on the side (just need to scroll left to access):
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" helgth="400" src="https://images.nikiv.dev/my-ios-shortcuts.png"></a>
 
 ## Shortcuts
 
-I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use with gray color for consistency. All the top shortcuts I use are activated with widgets (as seen above).
+I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use with gray color for consistency.
 
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Event](https://www.icloud.com/shortcuts/4b73f41a0f97415ba13ca93c47e54b2b) - Create new event with Fantastical.
@@ -126,6 +131,13 @@ Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="250" heigth="400" src="https://i.imgur.com/JFxssYt.jpg"></a>
+
+## Third page for testing apps
+
+I only use the 2 pages of apps and that's enough. The third page is mostly used as a way to test out new apps or develop apps of my own.
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+    <img width="250" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/main/4.png"></a>
 
 ## WatchOS
 
